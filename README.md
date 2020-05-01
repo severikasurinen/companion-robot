@@ -1,2 +1,5 @@
-# companion-robot
-Code and schematics for the companion robot project in (vid)
+# Companion Robot
+
+The code and schematics were made for a companion robot project on YouTube: (vid)
+
+To upload the code to your Arduino, download the folder above and open the code inside with Arduino IDE.
